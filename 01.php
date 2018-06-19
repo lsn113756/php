@@ -1,1 +1,5 @@
-asdas
+<?php 
+
+	echo 'fuck';
+
+ ?>
